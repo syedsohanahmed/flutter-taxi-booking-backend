@@ -12,7 +12,6 @@ UserLogin credentials : <br>
     PassWord : driver@driver.com</p><br>
 <h4>To get the application code email me or leave a message</h4><br>
 # cab_booking_backend
-This is the backend using LARAVEL for https://github.com/basitmir/cab_booking <br>
 <h3>Vist : <a href="https://cabbookingback.000webhostapp.com/admin">Cab booking Backend</a><br><br>
 #Here are the screen shots of the web Application<br><br>
 <p align="left">
